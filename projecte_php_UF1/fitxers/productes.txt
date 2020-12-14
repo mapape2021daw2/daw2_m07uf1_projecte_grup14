@@ -1,0 +1,7 @@
+OFICINA:Macbook:1:500:img_productes/macbook.jpg
+HOME:ASUS:2:399:img_productes/producte2.png
+GAMER:Acer:3:500:img_productes/producte3.jpg
+GAMER:MSI:4:699:img_productes/producte7.jpg
+OFICINA:Huawei:5:299:img_productes/producte5.jpg
+HOME:HP:6:499:img_productes/producte4.jpg
+8:GAMING:MSI:599:img_productes/macbook.jpg
